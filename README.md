@@ -3,6 +3,8 @@
 # https://www.stuud.app 
 ( demo account : alex@mail.com pwd: 123456 )
 
+![cover](https://user-images.githubusercontent.com/71734708/106543618-14382400-64d4-11eb-9f94-54399319cd3d.png)
+
 Lean CRM for self-employed entrepreneurs and professionals.
 
 Key in hand solution with no learning curve for keeping track of your clientele and finances.
